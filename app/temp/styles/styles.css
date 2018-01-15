@@ -493,7 +493,7 @@ a{
 @media (min-width: 800px){
 
 .large-hero__text-content {
-            padding-top: 60px
+            padding-top: 66px
     }
     }
 
@@ -1388,8 +1388,8 @@ Instead edit gulp/templates/sprite*/
 
 .reveal-item{
     opacity: 0;
-    -webkit-transition: all 1.5s ease-out;
-    transition: all 1.5s ease-out;
+    -webkit-transition: all 0.5s ease-out;
+    transition: all 0.5s ease-out;
     -webkit-transform: scale(1.15);
             transform: scale(1.15);
 }
